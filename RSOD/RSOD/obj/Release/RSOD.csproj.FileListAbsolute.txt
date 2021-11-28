@@ -1,0 +1,10 @@
+L:\Malware_source\LogonUI overwriter\RSOD\RSOD\bin\Release\RSOD.exe.config
+L:\Malware_source\LogonUI overwriter\RSOD\RSOD\bin\Release\RSOD.exe
+L:\Malware_source\LogonUI overwriter\RSOD\RSOD\bin\Release\RSOD.pdb
+L:\Malware_source\LogonUI overwriter\RSOD\RSOD\obj\Release\RSOD.csproj.AssemblyReference.cache
+L:\Malware_source\LogonUI overwriter\RSOD\RSOD\obj\Release\RSOD.RSOD.resources
+L:\Malware_source\LogonUI overwriter\RSOD\RSOD\obj\Release\RSOD.Properties.Resources.resources
+L:\Malware_source\LogonUI overwriter\RSOD\RSOD\obj\Release\RSOD.csproj.GenerateResource.cache
+L:\Malware_source\LogonUI overwriter\RSOD\RSOD\obj\Release\RSOD.csproj.CoreCompileInputs.cache
+L:\Malware_source\LogonUI overwriter\RSOD\RSOD\obj\Release\RSOD.exe
+L:\Malware_source\LogonUI overwriter\RSOD\RSOD\obj\Release\RSOD.pdb
